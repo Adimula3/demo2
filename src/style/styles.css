@@ -1,0 +1,139 @@
+.navbar {
+    background: #498eaf;
+}
+.navbar-brand {
+    margin-left: 80px;
+    color: #282c34;
+    padding: 20px;
+    color: #fff;
+    font-size: 30px;
+}
+.navbarNav {
+    margin-right: 30%;
+}
+.navbar-nav {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
+.nav-item {
+    padding-left: 30px;
+    padding-right: 30px;
+    list-style-type: none;
+}
+.nav-link {
+    color: #fff;
+}
+
+
+/*.......Hero.......*/
+
+.hero {
+    text-align: left;
+    padding-top: 70px;
+    background: #498eaf;
+    height: 500px;
+}
+.hero h1 {
+    color: #fff;
+}
+.hero p {
+    margin-top: 20px;
+    color: #fff;
+}
+.hero .input-group {
+    margin-top: 40px;
+}
+.hero .input-group .form-control {
+    font-size: 30px;
+}
+
+.hero .input-group .btn {
+    font-size: 30px;
+    background: #003853;
+    color: #fff;
+}
+.hero-message i {
+    font-size: 70px;
+}
+.hero-message Form {
+    padding-top: 25px;
+}
+.form-group {
+    margin: 30px;
+}
+.form-control {
+    border: 1px solid #343840;
+}
+.hero-message .btn {
+   background: #e5bb4b;
+    border: 1px solid #e5bb4b;
+    padding: 5px 115px 5px 115px;
+}
+.support b{
+    margin-top: 30px;
+}
+#abs1 {
+    z-index: 5;
+    position: absolute;
+    width: 350px;
+    height: 320px;
+    top: 500px;
+    left: 900px;
+    background-color: #e5bb4b;
+    padding-top: 30px;
+    color: #fff;
+}
+
+#abs2 {
+    z-index: 5;
+    position: absolute;
+    width: 350px;
+    height: 320px;
+    top: 500px;
+    left: 550px;
+    background-color: #343840;
+    padding-top: 30px;
+    color: #fff;
+}
+#abs3 {
+    z-index: 5;
+    position: absolute;
+    width: 350px;
+    height: 320px;
+    top: 500px;
+    left: 200px;
+    background-color: #e5bb4b;
+    padding-top: 30px;
+    color: #fff;
+}
+.hero-message {
+    justify-content: center;
+    text-align: center;
+}
+.about {
+    margin-top: 350px;
+    text-align: left;
+}
+.about h1 {
+    color: #12406a;
+}
+
+.about li {
+    font-size: 20px;
+    color: #003853;
+    font-weight: 600;
+}
+
+.img_about {
+    height: 400px;
+    width: 600px;
+}
+
+
+.services {
+    margin-top: 70px;
+}
+.services h1 {
+    margin-bottom: 40px;
+}
