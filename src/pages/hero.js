@@ -19,7 +19,7 @@ function Hero() {
                             </div>
                         </Col>
                         <Col lg={6}>
-
+                            <img className="illustration" src={require('../assets/Truck 04.jpg')} alt="" />
                         </Col>
                     </Row>
                     <div className="hero-message">

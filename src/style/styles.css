@@ -30,9 +30,9 @@
 
 .hero {
     text-align: left;
-    padding-top: 70px;
+    padding-top: 15px;
     background: #498eaf;
-    height: 500px;
+    height: 550px;
 }
 .hero h1 {
     color: #fff;
@@ -52,6 +52,10 @@
     font-size: 30px;
     background: #003853;
     color: #fff;
+}
+.illustration {
+    height: 420px;
+    width: 650px;
 }
 .hero-message i {
     font-size: 70px;
@@ -78,7 +82,7 @@
     position: absolute;
     width: 350px;
     height: 320px;
-    top: 500px;
+    top: 550px;
     left: 900px;
     background-color: #e5bb4b;
     padding-top: 30px;
@@ -90,7 +94,7 @@
     position: absolute;
     width: 350px;
     height: 320px;
-    top: 500px;
+    top: 550px;
     left: 550px;
     background-color: #343840;
     padding-top: 30px;
@@ -101,7 +105,7 @@
     position: absolute;
     width: 350px;
     height: 320px;
-    top: 500px;
+    top: 550px;
     left: 200px;
     background-color: #e5bb4b;
     padding-top: 30px;
